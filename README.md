@@ -4,5 +4,6 @@
 
 ###### 여러분
  ---
---- python
+---python{
 pip install tensor
+}
